@@ -5,4 +5,28 @@
 
 <h1>Restaurants</h1>
 
-@Model.Message
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" value="" name="searchTerm"/>
+            <span class="input-group">
+                <button class="btn btn-default">
+                    Search
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<ul>
+    @foreach(var restaurant in Model.Restaurants)
+    {
+        <li>
+            <span>@restaurant.Name,</span>
+            <span>@restaurant.Location,</span>
+            <span>@restaurant.Cuisine</span>
+        </li>
+    }
+</ul>
+
+<p>@Model.Message </p>

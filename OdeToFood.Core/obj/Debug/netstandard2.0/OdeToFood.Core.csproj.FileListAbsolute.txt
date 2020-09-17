@@ -1,0 +1,9 @@
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
