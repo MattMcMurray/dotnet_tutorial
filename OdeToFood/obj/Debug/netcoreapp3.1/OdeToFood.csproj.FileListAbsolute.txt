@@ -40,3 +40,4 @@ C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood\bin\Debug\netcoreapp
 C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
 C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\Mathieu\Documents\GitHub\dotnet_tutorial\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs

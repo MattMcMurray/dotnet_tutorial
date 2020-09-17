@@ -8,18 +8,24 @@
 <form method="get">
     <div class="form-group">
         <div class="input-group">
-            <input type="search" class="form-control" value="" name="searchTerm"/>
+
+            <input type="search"
+                   class="form-control"
+                   asp-for="SearchTerm"
+                   name="searchTerm" />
+
             <span class="input-group">
                 <button class="btn btn-default">
                     Search
                 </button>
             </span>
+
         </div>
     </div>
 </form>
 
 <ul>
-    @foreach(var restaurant in Model.Restaurants)
+    @foreach (var restaurant in Model.Restaurants)
     {
         <li>
             <span>@restaurant.Name,</span>
