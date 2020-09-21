@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MffgfMwsVABuSbXrb2MD2iOm6nSHmF3k3M8Hap762zkKplP0/HSM5A+dBTqddnNuovgd7W81lCqMDC4hlIfN3g==",
+  "dgSpecHash": "0rwBSm82XMMk2sEY3xf8gIsMKPxeZI5rm1BWmBXwiOPAFRYsxSI8cL4cKje5es0Z+QD9dK7Jo8JdaC8HQmrUOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mathieu\\Documents\\GitHub\\dotnet_tutorial\\OdeToFood.Data\\OdeToFood.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathieu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Mathieu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Mathieu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Mathieu\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
