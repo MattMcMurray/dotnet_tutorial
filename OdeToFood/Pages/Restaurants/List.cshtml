@@ -14,46 +14,24 @@
                    asp-for="SearchTerm"
                    name="searchTerm" />
 
-            <span class="input-group">
-                <button class="btn btn-default">
-                    Search
-                </button>
-            </span>
+            <button class="btn btn-primary">
+                Search
+            </button>
 
         </div>
     </div>
 </form>
 
-<ul>
-    @foreach (var restaurant in Model.Restaurants)
-    {
-        <li>
-            <div>
-                <span>@restaurant.Name,</span>
-                <span>@restaurant.Location,</span>
-                <span>@restaurant.Cuisine</span>
-            </div>
-            <div>
-                <span>
-                    <a class="btn btn-dark"
-                       asp-page="./Detail"
-                       asp-route-restaurantId="@restaurant.Id">
-                        Details
-                    </a>
-                </span>
-                <span>
-                    <a class="btn btn-dark"
-                       asp-page="./Edit"
-                       asp-route-restaurantId="@restaurant.Id">
-                        Edit
-                    </a>
-                </span>
-            </div>
-        </li>
-    }
-</ul>
+<div class="form-group">
+    <div class="input-group">
+        <a asp-page="./Edit" class="btn btn-primary">Add New</a>
+    </div>
+</div>
 
-<a asp-page="./Edit" class="btn btn-primary">Add New</a>
+@foreach (var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant" />
+}
 
 @section footer {
     <span>Hello, friend.</span>
